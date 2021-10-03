@@ -1,4 +1,4 @@
-![A cool banner!](Edara.png "banner")
+![A cool banner!](Assets/banner.png "banner")
 
 # Responsive Dynamic Landing Page
 
