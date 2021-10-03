@@ -15,7 +15,7 @@ This project is a multi-section landing page with a navigation menu. The navigat
 # Installation
 
 To use this project, first clone the repo on your device using the command below:<br>
-<code>git clone https://github.com/Abdorithm/Udacity-Web-Development-Projects.git</code><br>
+<code>git clone https://github.com/Abdorithm/dynamic-Landing-Page.git</code><br>
 Then, the repo will be downloaded on your machine. <br>
 <em>You can also download it as a zip file or fork it to your account.</em><br>
 [(Back to top)](#table-of-contents)
